@@ -1,8 +1,5 @@
-import tweepy as tw
 import os
 from dotenv import load_dotenv
-import datetime as DT
-import re
 import sqlite3
 
 load_dotenv()
