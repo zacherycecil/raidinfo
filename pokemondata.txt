@@ -1,0 +1,391 @@
+Gengar,Tauros,Tauros-flare,Tauros-aqua,Gyarados,Ditto,Vaporeon,Jolteon,Flareon,Dragonite,Espeon,Umbreon,Slowking,Scizor,Heracross,Blissey,Tyranitar,Pelipper,Gardevoir,Breloom,Torkoal,Salamence,Staraptor,Garchomp,Hippowdon,Magnezone,Leafeon,Glaceon,Gallade,Amoonguss,Haxorus,Hydreigon,Volcarona,Talonflame,Dragalge,Clawitzer,Sylveon,Goodra,Avalugg,Lycanroc,Toxapex,Mimikyu,Corviknight,Pincurchin,Frosmoth,Dragapult,Pawmot,Maushold,Dachsbun,Garganacl,Armarouge,Ceruledge,Kilowattrel,Mabosstiff,Grafaiai,Toedscruel,Klawf,Tinkaton,Bombirdier,Revavroom,Cyclizar,Orthworm,Glimmora,Cetitan,Dondozo,Annihilape,Clodsire,Farigiraf,Kingambit,Baxcalibur,WalkingWake,IronLeaves|||
+Shadow Ball
+Sludge Bomb
+Dazzling Gleam
+Will-O-Wisp
+Hypnosis,
+Close Combat
+Thrash
+Zen Headbutt
+Raging Bull
+Bulk Up
+Screech,
+Flare Blitz
+Close Combat
+Flamethrower
+Headbutt
+Sunny Day
+Bulk Up,
+Wave Crash
+Close Combat
+Surf
+Headbutt
+Rain Dance
+Bulk Up,
+Aqua Tail
+Crunch
+Hurricane
+Ice Fang
+Taunt
+Dragon Dance,
+Transform,
+Tera Blast
+Surf
+Hyper Voice
+Yawn
+Rain Dance
+Calm Mind,
+Tera Blast
+Thunderbolt
+Shadow Ball
+Thunder Wave
+Electric Terrain
+Calm Mind,
+Tera Blast
+Flare Blitz
+Lava Plume
+Will-O-Wisp
+Sunny Day
+Curse,
+Dragon Rush
+Extreme Speed
+Dragon Dance
+Aqua Tail
+Light Screen,
+Tera Blast
+Psychic
+Psyshock
+Tickle
+Psychic Terrain
+Calm Mind,
+Tera Blast
+Dark Pulse
+Foul Play
+Tickle
+Calm Mind
+Curse,
+Surf
+Psyshock
+Trick Room
+Flamethrower
+Light Screen
+Rain Dance
+Calm Mind,
+X-Scissor
+Bullet Punch
+Close Combat
+Iron Head
+Iron Defense
+Focus Energy,
+Megahorn
+Close Combat
+Thrash
+Leer
+Bulk Up,
+Dazzling Gleam
+Hyper Voice
+Sing
+Light Screen
+Defense Curl,
+Stone Edge
+Crunch
+Screech
+Rock Blast
+Iron Defense,
+Hurricane
+Hydro Pump
+Mist
+Supersonic
+Rain Dance
+Agility,
+Moonblast
+Psychic
+Calm Mind
+Thunder Wave
+Misty Terrain
+Psychic Terrain,
+Bullet Seed
+Low Sweep
+Spore
+Aerial Ace
+Grassy Terrain,
+Lava Plume
+Yawn
+Clear Smog
+Body Slam
+Sunny Day
+Iron Defense,
+Outrage
+Dual Wingbeat
+Flamethrower
+Tera Blast
+Dragon Dance,
+Close Combat
+Brave Bird
+Double-Edge
+Feather Dance,
+Outrage
+Earthquake
+Flamethrower
+Rock Slide
+Swords Dance,
+Earthquake
+Ice Fang
+Yawn
+Rock Slide,
+Thunder
+Flash Cannon
+Tri Attack
+Thunder Wave
+Rain Dance
+Iron Defense
+Electric Terrain,
+Tera Blast
+Leaf Blade
+Double Kick
+Charm
+Sunny Day
+Swords Dance,
+Tera Blast
+Ice Beam
+Blizzard
+Charm
+Snowscape
+Calm Mind,
+Psycho Cut
+Close Combat
+Will-O-Wisp
+Aerial Ace
+Hypnosis
+Disable
+Psychic Terrain,
+Energy Ball
+Foul Play
+Spore
+Sludge Bomb
+Grassy Terrain,
+Outrage
+Crunch
+Giga Impact
+First Impression
+Dragon Dance,
+Dark Pulse
+Dragon Pulse
+Crunch
+Taunt
+Work Up
+Nasty Plot,
+Bug Buzz
+Flamethrower
+Hurricane
+Tailwind
+Amnesia
+Sunny Day
+Light Screen
+Quiver Dance,
+Brave Bird
+Flare Blitz
+Flamethrower
+Tera Blast
+Sunny Day
+Swords Dance,
+Dragon Pulse
+Sludge Bomb
+Water Pulse
+Toxic
+Acid Spray
+Draco Meteor,
+Water Pulse
+Dragon Pulse
+Aura Sphere
+Crabhammer
+Rain Dance,
+Tera Blast
+Hyper Voice
+Moonblast
+Yawn
+Misty Terrain
+Calm Mind,
+Dragon Pulse
+Surf
+Sludge Bomb
+Power Whip
+Rain Dance,
+Icicle Crash
+Heavy Slam
+Snowscape
+Ice Spinner
+Iron Defense,
+Accelerock
+Rock Slide
+Crunch
+Taunt
+Sandstorm,
+Water Pulse
+Liquidation
+Poison Jab
+Pin Missile
+Chilling Water
+Toxic,
+Play Rough
+Shadow Claw
+Shadow Sneak
+Wood Hammer
+Misty Terrain
+Swords Dance,
+Iron Head
+Drill Peck
+Body Press
+Hone Claws
+Tailwind,
+Zing Zap
+Thunder
+Surf
+Poison Jab
+Thunder Wave
+Electric Terrain,
+Blizzard
+Bug Buzz
+Hurricane
+Snowscape,
+Shadow Ball
+Dragon Pulse
+Thunderbolt
+Flamethrower
+Reflect
+Light Screen,
+Wild Charge
+Close Combat
+Double Shock
+Nuzzle
+Electric Terrain,
+Play Rough
+Take Down
+Low Kick
+Charm
+Tidy Up,
+Play Rough
+Double-Edge
+Bite
+Baby-Doll Eyes,
+Stone Edge
+Heavy Slam
+Salt Cure
+Hammer Arm
+Sandstorm
+Rock Slide,
+Armor Cannon
+Psychic
+Night Shade
+Will-O-Wisp
+Calm Mind
+Sunny Day,
+Bitter Blade
+Shadow Claw
+Psycho Cut
+Will-O-Wisp
+Sunny Day,
+Hurricane
+Thunder
+Uproar
+Scary Face
+Charge
+Rain Dance,
+Crunch
+Reversal
+Outrage
+Take Down
+Taunt,
+Knock Off
+Gunk Shot
+Take Down
+Flatter
+Toxic,
+Energy Ball
+Earth Power
+Spore
+Hex
+Grassy Terrain,
+Stone Edge
+Rock Smash
+X-Scissor
+Sandstorm
+Knock Off
+Iron Defense,
+Gigaton Hammer
+Play Rough
+Knock Off
+Thunder Wave
+Misty Terrain
+Sweet Kiss,
+Rock Slide
+Acrobatics
+Knock Off
+Feather Dance,
+Gunk Shot
+Overheat
+Iron Head
+Taunt
+Scary Face
+Shift Gear,
+Double-Edge
+Dragon Claw
+Dragon Pulse
+Knock Off
+Shift Gear,
+Iron Head
+Earthquake
+Smack Down
+Sandstorm
+Coil,
+Power Gem
+Sludge Wave
+Hyper Beam
+Rock Polish
+Sandstorm,
+Ice Spinner
+Body Slam
+Snowscape
+Stomping Tantrum
+Yawn,
+Wave Crash
+Order Up
+Heavy Slam
+Yawn
+Rain Dance
+Curse,
+Close Combat
+Shadow Claw
+Assurance
+Focus Energy
+Bulk Up
+Rage Fist,
+Earthquake
+Poison Jab
+Megahorn
+Yawn,
+Twin Beam
+Hyper Voice
+Low Kick
+Uproar
+Agility,
+Iron Head
+Night Slash
+Kowtow Cleave
+Thunder Wave
+Swords Dance,
+Icicle Spear
+Dragon Rush
+Snowscape
+Body Press,
+Hydro Steam
+Dragon Pulse
+Noble Roar
+Flamethrower
+Sunny Day,
+Psyblade
+Leaf Blade
+Megahorn
+Swords Dance
+Electric Terrain
+|||Bitter,Spicy,Spicy,Spicy,Spicy,Sweet,Spicy Sweet Salty Bitter Sour,Sweet,Spicy,Spicy,Bitter,Sour,Sour,Spicy,Spicy,Spicy Sweet Salty Bitter Sour,Spicy,Salty,Bitter,Spicy,Salty,Spicy,Spicy,Spicy,Salty,Bitter,Spicy,Bitter,Spicy,Spicy Sweet Salty Bitter Sour,Spicy,Bitter,Bitter,Sweet,Bitter,Bitter,Bitter,Sour,Salty,Spicy,Salty,Sour,Salty,Spicy,Sour,Sweet,Spicy,Sweet,Salty,Salty,Bitter,Spicy,Sweet,Spicy,Sweet,Sour,Salty,Sour,Spicy,Spicy,Sweet,Salty,Bitter,Spicy Sweet Salty Bitter Sour,Spicy Sweet Salty Bitter Sour,Spicy,Sour,Spicy Sweet Salty Bitter Sour,Spicy,Spicy,None,None
