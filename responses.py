@@ -10,16 +10,16 @@ load_dotenv()
 
 DISCORD_TOKEN = os.getenv('DISCORD_TOKEN')
 
-def handle_response(author : str, message : str) -> str:
-    
-    args = message.lower().split()
+def handle_response(message) -> str:
+
+    args = str(message.content).lower().split()
 
     if args[0] == '!raid':
-        log_command(author, message)
+        log_command(message)
         return raid(args)
     
     if args[0] == '!info':
-        log_command(author, message)
+        log_command(message)
         return 'Hello, I am a raid information bot created by Hail. Try doing a command like "!raid <pokemon name>". Examples:\n*!raid clodsire*\n*!raid clodsire EBU26B dark*'
 
 def raid(args):
@@ -78,5 +78,11 @@ def validate_tera_type(tera_type):
     log.warning(tera_type + ' does not appear in the list of valid types.')
     return False
 
-def log_command(author : str, message : str):
-    log.info('[' + str(datetime.datetime.now()) + '] ' + author + ': ' + message)
+def log_command(message):
+       
+    message_text = str(message.content)
+    author = str(message.author)
+    server = str(message.guild.name)
+    channel = str(message.channel)
+
+    log.info('[' + str(datetime.datetime.now()) + '] ' + server + ' (#' + channel + ') ' + author + ': ' + message_text)

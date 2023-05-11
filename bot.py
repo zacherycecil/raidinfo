@@ -4,7 +4,7 @@ from responses import DISCORD_TOKEN
 
 async def send_message(message, user_message, is_private):
     try:
-        response = responses.handle_response(str(message.author), user_message)
+        response = responses.handle_response(message)
         await message.author.send(response) if is_private else await message.channel.send(response)
     except Exception as e:
         print(e)
