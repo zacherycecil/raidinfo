@@ -1,0 +1,3 @@
+!strat|||For the Chesnaught raid, the current common strategy is **x3 Perrserker** and **x1 Gholdengo**. Try commands *!perrserker* and *!gholdengo*\nIf you need a raid Pokemon, you could ask nicely and someone may be willing to trade one.
+!gholdengo|||**Gholdengo**\nMax EVs & IVs in Speed and Special Attack (should have 401 SpAtk at level 100)\nModest Nature\nChoice Specs\nUse the move Make it Rain after all 3 Perrserkers use Fake Tears
+!perrserker|||**Perrserker**\nEVs and IVs aren't necessary, but HP + Def Max can be used.\nImpish nature suggested\nFocus Sash\nImmediately uses Fake Tears
